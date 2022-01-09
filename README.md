@@ -12,3 +12,5 @@
 **5. [6/1]:** Continue trabajando en el proyecto [RoadMapsUNO](https://github.com/gnuno/web-guides-uno), reparando algunas cosas.
 
 **6. [7/1]:** Continue trabajando en el proyecto [RoadMapsUNO](https://github.com/gnuno/web-guides-uno), se cambio la seccion de como contribuir, con nuevas imagenes y textos.
+
+**7. [9/1]:** Continue trabajando en el proyecto [RoadMapsUNO](https://github.com/gnuno/web-guides-uno), empece a actualizar las guias y cargar links.
