@@ -19,4 +19,6 @@
 
 **9. [11/1]:** Continue trabajando en el proyecto [RoadMapsUNO](https://github.com/gnuno/web-guides-uno), empece a cargar links a las guias de frontend y backend.
 
-**10. [12/1]:** Continue trabajando en el proyecto [RoadMapsUNO](https://github.com/gnuno/web-guides-uno), se termina la guia de frontend.
+**10. [12/1]:** Continue trabajando en el proyecto [RoadMapsUNO](https://github.com/gnuno/web-guides-uno), casi se completa la guia de frontend.
+
+**11. [13/1]:** Continue trabajando en el proyecto [RoadMapsUNO](https://github.com/gnuno/web-guides-uno), se termina la guia de frontend.
