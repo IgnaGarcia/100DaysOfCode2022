@@ -24,3 +24,5 @@
 **11. [13/1]:** Continue trabajando en el proyecto [RoadMapsUNO](https://github.com/gnuno/web-guides-uno), se termina la guia de frontend.
 
 **12. [14/1]:** Empece a crear una api de carreras y materias.
+
+**13. [16/1]:** Continue trabajando en la [API Plan de Estudios](https://github.com/gnuno/api-plan-de-estudios).
