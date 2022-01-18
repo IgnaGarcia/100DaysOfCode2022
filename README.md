@@ -28,3 +28,5 @@
 **13. [16/1]:** Continue trabajando en la [API Plan de Estudios](https://github.com/gnuno/api-plan-de-estudios).
 
 **14. [17/1]:** Continue trabajando en la [API Plan de Estudios](https://github.com/gnuno/api-plan-de-estudios), se empezaron a crear los mockups de las carreras.
+
+**15. [18/1]:** Agruegue proximas guias en el proyecto [RoadMapsUNO](https://github.com/gnuno/web-guides-uno).
