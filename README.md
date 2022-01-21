@@ -32,3 +32,5 @@
 **15. [18/1]:** Agruegue proximas guias en el proyecto [RoadMapsUNO](https://github.com/gnuno/web-guides-uno).
 
 **16. [19/1]:** Continue trabajando en la [API Plan de Estudios](https://github.com/gnuno/api-plan-de-estudios), se puso en funcionamiento la db y refactorizo la api.
+
+**17. [20/1]:** Continue trabajando en la [API Plan de Estudios](https://github.com/gnuno/api-plan-de-estudios), se crearon los endpoints para usuarios.
