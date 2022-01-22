@@ -36,3 +36,5 @@
 **17. [20/1]:** Continue trabajando en la [API Plan de Estudios](https://github.com/gnuno/api-plan-de-estudios), se crearon los endpoints para usuarios.
 
 **18. [21/1]:** Continue trabajando en la [API Plan de Estudios](https://github.com/gnuno/api-plan-de-estudios), se agrego token de usuario y autenticacion de admin.
+
+**19. [22/1]:** Continue trabajando en la [API Plan de Estudios](https://github.com/gnuno/api-plan-de-estudios), deploye la [aplicacion](https://api-plan-de-estudios.herokuapp.com/) y se creo endpoint para refrescar el token.
