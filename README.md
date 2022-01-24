@@ -40,3 +40,5 @@
 **19. [22/1]:** Continue trabajando en la [API Plan de Estudios](https://github.com/gnuno/api-plan-de-estudios), deploye la [aplicacion](https://api-plan-de-estudios.herokuapp.com/) y se creo endpoint para refrescar el token.
 
 **20. [23/1]:** Se resuelve el [Issue](https://github.com/gnuno/bot-info-uno/issues/25) del [Bot Info UNO](https://github.com/gnuno/bot-info-uno).
+
+**21. [24/1]:** Se resuelve el [Issue](https://github.com/gnuno/bot-info-uno/issues/29) del [Bot Info UNO](https://github.com/gnuno/bot-info-uno). Para esto ademas se creo el endpoint /course/correlative de la [API Plan de Estudios](https://github.com/gnuno/api-plan-de-estudios),
