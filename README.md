@@ -41,4 +41,6 @@
 
 **20. [23/1]:** Se resuelve el [Issue](https://github.com/gnuno/bot-info-uno/issues/25) del [Bot Info UNO](https://github.com/gnuno/bot-info-uno).
 
-**21. [24/1]:** Se resuelve el [Issue](https://github.com/gnuno/bot-info-uno/issues/29) del [Bot Info UNO](https://github.com/gnuno/bot-info-uno). Para esto ademas se creo el endpoint /course/correlative de la [API Plan de Estudios](https://github.com/gnuno/api-plan-de-estudios),
+**21. [24/1]:** Se resuelve el [Issue](https://github.com/gnuno/bot-info-uno/issues/29) del [Bot Info UNO](https://github.com/gnuno/bot-info-uno). Para esto ademas se creo el endpoint /course/correlative de la [API Plan de Estudios](https://github.com/gnuno/api-plan-de-estudios).
+  
+**22. [25/1]:**​ Comence a diagramar una nueva aplicacion para desarrollar con Django Framework.
