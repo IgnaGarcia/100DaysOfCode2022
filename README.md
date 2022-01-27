@@ -46,3 +46,5 @@
 **22. [25/1]:** Comence a diagramar una nueva aplicacion para desarrollar con Django Framework.
 
 **23. [27/1]:** Empece el proyecto con Django.
+
+**24. [28/1]:** Sigo estudiando Django, ahora conectando con DB..
