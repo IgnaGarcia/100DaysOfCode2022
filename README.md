@@ -47,4 +47,6 @@
 
 **23. [27/1]:** Empece el proyecto con Django.
 
-**24. [28/1]:** Sigo estudiando Django, ahora conectando con DB..
+**24. [28/1]:** Sigo estudiando Django, ahora conectando con DB.
+
+**25. [30/1]:** Rebrand de [RoadMapsUNO](https://github.com/gnuno/web-guides-uno) a **Soy Autodidacta**. Continuo aprendiendo Django Framework.
