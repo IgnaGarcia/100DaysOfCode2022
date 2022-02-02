@@ -52,3 +52,6 @@
 **25. [30/1]:** Rebrand de [RoadMapsUNO](https://github.com/gnuno/web-guides-uno) a **Soy Autodidacta**. Continuo aprendiendo Django Framework.
 
 **26. [31/1]:** Creo las tareas para [Soy Autodidacta](https://github.com/gnuno/web-guides-uno).
+
+## Febrero
+**27. [1/2]:** Sigo Creando las tareas para [Soy Autodidacta](https://github.com/gnuno/web-guides-uno).
