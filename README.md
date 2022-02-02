@@ -55,3 +55,5 @@
 
 ## Febrero
 **27. [1/2]:** Sigo Creando las tareas para [Soy Autodidacta](https://github.com/gnuno/web-guides-uno).
+
+**28. [2/2]:** Sigo Creando las tareas para [Soy Autodidacta](https://github.com/gnuno/web-guides-uno).
