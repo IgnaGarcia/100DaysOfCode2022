@@ -59,3 +59,5 @@
 **28. [2/2]:** Sigo Creando las tareas para [Soy Autodidacta](https://github.com/gnuno/web-guides-uno).
 
 **29. [3/2]:** Comienzo a aprender FastAPI.
+
+**30. [4/2]:** Continuo aprendiendo FastAPI.
