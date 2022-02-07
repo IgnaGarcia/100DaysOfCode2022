@@ -61,3 +61,5 @@
 **29. [3/2]:** Comienzo a aprender FastAPI.
 
 **30. [4/2]:** Continuo aprendiendo FastAPI.
+
+**31. [6/2]:** Aplico arquitectura y documentacion a mi primera api con FastAPI.
