@@ -58,10 +58,12 @@
 
 **28. [2/2]:** Sigo Creando las tareas para [Soy Autodidacta](https://github.com/gnuno/web-guides-uno).
 
-**29. [3/2]:** Comienzo a aprender FastAPI.
+**29. [3/2]:** Comienzo a aprender [FastAPI](https://github.com/IgnaGarcia/lifemanager-api).
 
-**30. [4/2]:** Continuo aprendiendo FastAPI.
+**30. [4/2]:** Continuo aprendiendo [FastAPI](https://github.com/IgnaGarcia/lifemanager-api).
 
-**31. [6/2]:** Aplico arquitectura y documentacion a mi primera api con FastAPI.
+**31. [6/2]:** Aplico arquitectura y documentacion a mi primera api con [FastAPI](https://github.com/IgnaGarcia/lifemanager-api).
 
-**32. [7/2]:** Agrego ORM y Base de Datos a mi primera api con FastAPI.
+**32. [7/2]:** Agrego ORM y Base de Datos a mi primera api con [FastAPI](https://github.com/IgnaGarcia/lifemanager-api).
+
+**33. [8/2]:** Mejoro la arquitectura de [API FastAPI](https://github.com/IgnaGarcia/lifemanager-api) y realizo refactoring en mi primera api con FastAPI, tambien agrego login y hasheo de password.
