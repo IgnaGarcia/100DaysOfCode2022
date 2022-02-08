@@ -63,3 +63,5 @@
 **30. [4/2]:** Continuo aprendiendo FastAPI.
 
 **31. [6/2]:** Aplico arquitectura y documentacion a mi primera api con FastAPI.
+
+**32. [7/2]:** Agrego ORM y Base de Datos a mi primera api con FastAPI.
