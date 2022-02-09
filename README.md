@@ -67,3 +67,5 @@
 **32. [7/2]:** Agrego ORM y Base de Datos a mi primera api con [FastAPI](https://github.com/IgnaGarcia/lifemanager-api).
 
 **33. [8/2]:** Mejoro la arquitectura de [API FastAPI](https://github.com/IgnaGarcia/lifemanager-api) y realizo refactoring en mi primera api con FastAPI, tambien agrego login y hasheo de password.
+
+**34. [9/2]:** Agrego endpoint a [API Plan de Estudios](https://github.com/gnuno/api-plan-de-estudios) y rebrand para lanzamiento de [Soy Autodidacta](https://github.com/gnuno/web-guides-uno) a **autodidactaUNO**.
