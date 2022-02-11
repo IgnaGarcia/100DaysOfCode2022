@@ -69,3 +69,5 @@
 **33. [8/2]:** Mejoro la arquitectura de [API FastAPI](https://github.com/IgnaGarcia/lifemanager-api) y realizo refactoring en mi primera api con FastAPI, tambien agrego login y hasheo de password.
 
 **34. [9/2]:** Agrego endpoint a [API Plan de Estudios](https://github.com/gnuno/api-plan-de-estudios) y rebrand para lanzamiento de [Soy Autodidacta](https://github.com/gnuno/web-guides-uno) a **autodidactaUNO**.
+
+**35. [10/2]:** Empiezo a documentar [API Plan de Estudios](https://github.com/gnuno/api-plan-de-estudios) y API GEA Links.
