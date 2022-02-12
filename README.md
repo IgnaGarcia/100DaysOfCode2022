@@ -71,3 +71,5 @@
 **34. [9/2]:** Agrego endpoint a [API Plan de Estudios](https://github.com/gnuno/api-plan-de-estudios) y rebrand para lanzamiento de [Soy Autodidacta](https://github.com/gnuno/web-guides-uno) a **autodidactaUNO**.
 
 **35. [10/2]:** Empiezo a documentar [API Plan de Estudios](https://github.com/gnuno/api-plan-de-estudios) y API GEA Links.
+
+**36. [11/2]:** Mover de AlwaysData a Heroku el server de GEALinks y preparar doc para agregar los preoyectos de apis a mi portfolio.
