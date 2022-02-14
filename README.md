@@ -73,3 +73,5 @@
 **35. [10/2]:** Empiezo a documentar [API Plan de Estudios](https://github.com/gnuno/api-plan-de-estudios) y API GEA Links.
 
 **36. [11/2]:** Mover de AlwaysData a Heroku el server de GEALinks y preparar doc para agregar los preoyectos de apis a mi portfolio.
+
+**37. [13/2]:** Agregar nuevos proyectos al portfolio y opcion de mantener ocultos algunos proyectos.
