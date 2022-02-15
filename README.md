@@ -75,3 +75,5 @@
 **36. [11/2]:** Mover de AlwaysData a Heroku el server de GEALinks y preparar doc para agregar los preoyectos de apis a mi portfolio.
 
 **37. [13/2]:** Agregar nuevos proyectos al portfolio y opcion de mantener ocultos algunos proyectos.
+
+**38. [14/2]:** Empiezo la API para QueComemos.
