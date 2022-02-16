@@ -77,3 +77,5 @@
 **37. [13/2]:** Agregar nuevos proyectos al portfolio y opcion de mantener ocultos algunos proyectos.
 
 **38. [14/2]:** Empiezo la API para QueComemos.
+
+**39. [15/2]:** Continuo la API para QueComemos.
