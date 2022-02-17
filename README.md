@@ -76,6 +76,8 @@
 
 **37. [13/2]:** Agregar nuevos proyectos al portfolio y opcion de mantener ocultos algunos proyectos.
 
-**38. [14/2]:** Empiezo la API para QueComemos.
+**38. [14/2]:** Empiezo la API para [API-QueComemos](https://github.com/IgnaGarcia/API-QueComemos).
 
-**39. [15/2]:** Continuo la API para QueComemos.
+**39. [15/2]:** Continuo la API para [API-QueComemos](https://github.com/IgnaGarcia/API-QueComemos).
+
+**40. [16/2]:** Agrego endpoint para delete y hago el deploy de [API-QueComemos](https://github.com/IgnaGarcia/API-QueComemos).
