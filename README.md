@@ -81,3 +81,7 @@
 **39. [15/2]:** Continuo la API para [API-QueComemos](https://github.com/IgnaGarcia/API-QueComemos).
 
 **40. [16/2]:** Agrego endpoint para delete y hago el deploy de [API-QueComemos](https://github.com/IgnaGarcia/API-QueComemos).
+
+**41. [18/2]:** Empiezo a implementar la API en [QueComemos](https://github.com/IgnaGarcia/APP-QueComemos).
+
+**42. [21/2]:** Hago unos refactors en la [API QueComemos](https://github.com/IgnaGarcia/API-QueComemos) y continuo con la implementacion en la [APP](https://github.com/IgnaGarcia/APP-QueComemos).
