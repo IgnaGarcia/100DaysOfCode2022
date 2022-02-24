@@ -87,3 +87,5 @@
 **42. [21/2]:** Hago unos refactors en la [API QueComemos](https://github.com/IgnaGarcia/API-QueComemos) y continuo con la implementacion en la [APP](https://github.com/IgnaGarcia/APP-QueComemos).
 
 **43. [22/2]:** Termino de implementar la API en [QueComemos](https://github.com/IgnaGarcia/APP-QueComemos).
+
+**44. [24/2]:** Agrego progress bar y manejo de arrores en [QueComemos](https://github.com/IgnaGarcia/APP-QueComemos).
