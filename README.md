@@ -91,3 +91,5 @@
 **44. [24/2]:** Agrego progress bar y manejo de arrores en [QueComemos](https://github.com/IgnaGarcia/APP-QueComemos).
 
 **45. [27/2]:** Retomo el proyecto de [Plan de Estudios](https://github.com/gnuno/web-plan-de-estudios) organizando las tareas y plasmando ideas.
+
+**46. [28/2]:** Continuo realizando los prototipos para el [Plan de Estudios](https://github.com/gnuno/web-plan-de-estudios).
