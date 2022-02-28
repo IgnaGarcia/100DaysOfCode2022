@@ -89,3 +89,5 @@
 **43. [22/2]:** Termino de implementar la API en [QueComemos](https://github.com/IgnaGarcia/APP-QueComemos).
 
 **44. [24/2]:** Agrego progress bar y manejo de arrores en [QueComemos](https://github.com/IgnaGarcia/APP-QueComemos).
+
+**45. [27/2]:** Retomo el proyecto de [Plan de Estudios](https://github.com/gnuno/web-plan-de-estudios) organizando las tareas y plasmando ideas.
