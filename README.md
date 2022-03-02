@@ -96,3 +96,5 @@
 
 ## Marzo
 **47. [1/3]:** Continuo realizando los prototipos para el [Plan de Estudios](https://github.com/gnuno/web-plan-de-estudios).
+
+**48. [2/3]:** Continuo realizando los prototipos para el [Plan de Estudios](https://github.com/gnuno/web-plan-de-estudios).
