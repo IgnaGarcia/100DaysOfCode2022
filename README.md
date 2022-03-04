@@ -100,3 +100,5 @@
 **48. [2/3]:** Continuo realizando los prototipos para el [Plan de Estudios](https://github.com/gnuno/web-plan-de-estudios).
 
 **49. [3/3]:** Organizo la estructura para implementar historial de una materia en [Plan de Estudios](https://github.com/gnuno/web-plan-de-estudios).
+
+**50. [4/3]:** Actualizacion de [API Plan de Estudios](https://github.com/gnuno/api-plan-de-estudios), empece a implementar el historial y la facil actualizacion del progreso.
